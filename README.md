@@ -13,3 +13,5 @@ This is privacy oriented, democratic, version of Libra blockchain which provides
 ## Discuss the project on:
 
 Telegram: https://t.me/dLibra
+
+Twitter: https://twitter.com/dLibraorg
